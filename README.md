@@ -15,4 +15,3 @@ This module expands support for UPS services by allowing shop owners to choose w
 4. Check UPS Type parameter - it has to be set to "**United Parcel Service XML**", it will now work with CGI "United Parcel Service" option - Saturday deliveries can not be fetched with CGI queries
 5. Set "**Delivery on Saturday**" parameter to "Yes"
 6. Clear the Magento cache once again, if it is activated
-
