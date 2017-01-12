@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+
+<config>
+    <modules>
+        <Codernia_UpsSaturday>
+            <version>1.0.0</version>
+        </Codernia_UpsSaturday>
+    </modules>
+    <global>
+        <models>
+            <codeupssaturday>
+                <class>Codernia_UpsSaturday_Model</class>
+            </codeupssaturday>
+            <usa>
+                <rewrite>
+                    <shipping_carrier_ups>Codernia_UpsSaturday_Model_Ups</shipping_carrier_ups>
+                </rewrite>
+            </usa>
+        </models>
+    </global>
+</config>

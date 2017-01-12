@@ -1,0 +1,8 @@
+<config>
+    <modules>      
+        <Codernia_UpsSaturday>
+            <active>true</active>
+            <codePool>local</codePool>
+        </Codernia_UpsSaturday>
+    </modules>
+</config>
